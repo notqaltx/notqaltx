@@ -24,7 +24,7 @@ he/him || dog/dog
 ### My GitHub Stats:
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=notqaltx&show_icons=true&theme=dracula)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CortSync&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notqaltx&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=10" />
 </a>
 
 <br/>
