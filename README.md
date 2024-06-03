@@ -13,7 +13,7 @@ he/him || dog/dog
 
 <p align="left">
   <b>About me:</b><br/>
-  I'm 17 years old Software Engineer and UI/UX Designer. I love making stuff that hard to do. For example right now I'm working on my programming language, and, I'm really proud of it and I love how it looks now.
+  I'm 17 years old Software Engineer and UX/UI Designer. I love making stuff that hard to do. For example right now I'm working on my programming language, and, I'm really proud of it and I love how it looks now.
   Right now I'm working alone at all my projects, but you can contribute Fluxar and help me! It would be really appreciated! 
   <br/><h3><b>Life is short. Once you stop learning, you start dying.</b></h3>
 </p>
