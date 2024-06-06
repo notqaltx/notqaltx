@@ -19,7 +19,7 @@ he/him || dog/dog
 </p>
 
 ### 💻 Currently working on:
-[![fluxar](https://svg.bookmark.style/api?url=https://github.com/CortSync/Fluxar&mode=dark&style=horizontal)](https://github.com/CortSync/Fluxar)
+[![fluxar](https://svg.bookmark.style/api?url=https://github.com/FluxarSoftware/Fluxar&mode=dark&style=horizontal)](https://github.com/CortSync/Fluxar)
 
 ### My GitHub Stats:
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=notqaltx&show_icons=true&theme=dracula)
