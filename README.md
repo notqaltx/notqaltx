@@ -11,7 +11,7 @@ he/him
   life goal: be a good game designer i guess?</br>
 </p>
 
-### My GitHub Stats:
+### my github stats:
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=notqaltx&show_icons=true&theme=dracula)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notqaltx&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=10&hide=html" />
