@@ -6,9 +6,9 @@ he/him
 
 <p align="left">
   <b>about me:</b><br/>
-  semi-professional user experience design intern
-  programmer, designer @ Skyward Interactive
-  life goal: be a good game designer i guess?
+  semi-professional user experience design intern</br>
+  programmer, designer @ Skyward Interactive</br>
+  life goal: be a good game designer i guess?</br>
 </p>
 
 ### My GitHub Stats:
@@ -20,5 +20,5 @@ he/him
 <br/>
 <p align="center">
   <b>how to reach me?</b><br/>
-  you can't
+  you can't, follow me on roblox: @uid3v
 </p>
