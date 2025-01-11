@@ -8,14 +8,11 @@ he/him
   <b>about me:</b><br/>
   semi-professional user experience design intern</br>
   programmer, designer @ Skyward Interactive</br>
-  life goal: be a good game designer i guess?</br>
-</p>
+  life goal: be a good game designer</br>
 
-### my github stats:
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=notqaltx&show_icons=true&theme=dracula)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notqaltx&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=10&hide=html" />
-</a>
+  i'm trying to make awesome programming language, so...</br>
+  go check it out, i guess??</br>
+</p>
 
 <br/>
 <p align="center">
