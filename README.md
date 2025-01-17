@@ -6,12 +6,12 @@ he/him
 
 <p align="left">
   <b>about me:</b><br/>
-  programming languages enthusiast (love creating them)
+  programming languages enthusiast (love creating them)</br>
   semi-professional user experience design intern</br>
   programmer, designer @ Skyward Interactive</br>
   life goal: be a good game designer</br>
 
-  i'm trying to make awesome programming language, so...</br>
+  i'm working on big project called Fluxar</br>
   go check it out, i guess??</br>
 </p>
 
