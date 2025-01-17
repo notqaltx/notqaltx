@@ -6,7 +6,7 @@ he/him
 
 <p align="left">
   <b>about me:</b><br/>
-  programming languages enthusiast (love creating them)</br>
+  programming language enthusiast (love creating them)</br>
   semi-professional user experience design intern</br>
   programmer, designer @ Skyward Interactive</br>
   life goal: be a good game designer</br>
